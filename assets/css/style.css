@@ -1,0 +1,37 @@
+body{
+    background-image: url('../images/background.jpg');
+    background-size: 100%;
+	text-align: center;
+}
+
+.jumbotron{
+    background-image: url('../images/speechbub.jpg') ;
+    background-size: 100% 100%;
+
+}
+
+.container{
+    padding-top: 20px;
+    color: yellow;
+    border-radius: 12px;
+
+}
+
+
+
+
+.text-muted{
+    padding: 20px;
+    height: 80px;
+    color: yellow;
+    background-image: url('../images/speechbub.jpg');
+    background-size: 100% 100%;
+    text-align: center;
+    border-radius: 12px;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
