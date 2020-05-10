@@ -138,7 +138,7 @@ $(document).ready(function(){
           .html('<h3>You made it to the end of the dungeon!</h3>'+
           '<p>Correct: '+ trivia.correct +'</p>'+
           '<p>Incorrect: '+ trivia.incorrect +'</p>'+
-          '<p>Unaswered: '+ trivia.unanswered +'</p>'+
+          '<p>Unanswered: '+ trivia.unanswered +'</p>'+
           '<p>Play again, if you dare!</p>');
         
 
